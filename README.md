@@ -1,4 +1,4 @@
-# Graph-Quantum-Machine-Learning
+# Quantum Computing
 Based on Graph Theory, simulate quantum algorithms using the power of Graph Machine Learning.
 create KI (krishna's intelligence) using grap neural network at its core.
 things to study
